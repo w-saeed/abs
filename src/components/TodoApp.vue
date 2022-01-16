@@ -1,7 +1,7 @@
 <template>
   <div class="container" style="max-width: 1000px">
     <!-- Heading -->
-    <h2 class="text-center mt-5">Name Todo List</h2>
+    <h2 class="text-center mt-5">Nameee Todo List</h2>
 
     <!-- Add new Task  popup-->
     <div class="d-flex justify-content-center mt-5">
